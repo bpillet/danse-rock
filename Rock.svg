@@ -1165,9 +1165,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.61352208"
-     inkscape:cx="570.23805"
-     inkscape:cy="706.2855"
+     inkscape:zoom="0.32536922"
+     inkscape:cx="1187.0887"
+     inkscape:cy="663.50901"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -3244,8 +3244,7 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;line-height:125%;font-family:Serif;-inkscape-font-specification:Serif;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="text43565"><textPath
          xlink:href="#path1691"
-         startOffset="50%"
-         id="textPath1693"><tspan
+         id="textPath1720"><tspan
    style="text-align:center;text-anchor:middle"
    id="tspan43567">parapluie</tspan></textPath></text>
     <path
@@ -3411,10 +3410,10 @@
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.29999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker29619)" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 130.51307,1251.7638 c 0,0 9.91531,45.3271 43.91065,48.6321 33.99531,3.3052 45.32711,-9.443 50.99301,-18.8862"
+       d="m 142.94331,1278.7476 c 0,0 13.53609,23.3915 38.2525,23.2782 38.49915,-0.1763 51.28396,-22.146 51.28396,-22.146"
        id="path1691"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccc" />
+       sodipodi:nodetypes="csc" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m -379.08368,878.22436 c 0,0 -47.46333,-4.23821 -47.46333,-42.2291 0,-39.09794 28.06845,-50.45423 34.4119,-51.12196"
